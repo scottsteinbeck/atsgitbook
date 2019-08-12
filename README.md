@@ -28,15 +28,15 @@ description: here we go with the data and all
   * [x] T3 Subtask 2
 
 {% code-tabs %}
-{% code-tabs-item title="My File Bro" %}
+{% code-tabs-item title="My File Bro.sh" %}
 ```text
 $ here is some code, execute it
 ```
 {% endcode-tabs-item %}
 
-{% code-tabs-item title="File 2" %}
+{% code-tabs-item title="my file 2.cfm" %}
 ```bash
-## Sup with the wack whatsup
+<!--- Sup with the wack whatsup --->
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
