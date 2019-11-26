@@ -4,6 +4,15 @@ description: here we go with the data and all
 
 # All the tags
 
+```text
+yay here we go
+```
+
+```text
+Code in 1
+code in 2
+```
+
 ## H1 Tag
 
 ### H2 Tag
@@ -27,19 +36,19 @@ description: here we go with the data and all
   * [ ] T3 Subtask 1
   * [x] T3 Subtask 2
 
-{% code-tabs %}
-{% code-tabs-item title="My File Bro.sh" %}
+{% tabs %}
+{% tab title="My File Bro.sh" %}
 ```text
 $ here is some code, execute it
 ```
-{% endcode-tabs-item %}
+{% endtab %}
 
-{% code-tabs-item title="my file 2.cfm" %}
+{% tab title="my file 2.cfm" %}
 ```bash
 <!--- Sup with the wack whatsup --->
 ```
-{% endcode-tabs-item %}
-{% endcode-tabs %}
+{% endtab %}
+{% endtabs %}
 
 > ### 4 score and 7 years ago, stuff happened, the end
 >
