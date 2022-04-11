@@ -1,11 +1,13 @@
 # Table of contents
 
-* [What a great thing](README.md)
-* [Un titled title](un-titled.md)
-* [Untitled](untitled.md)
+* [All the tags](README.md)
+* [API Page](api-page.md)
 
-## Big Group Setting
+## Section 1
 
-* [My new Title](big-group-setting/untitled.md)
-* [Untitled](big-group-setting/untitled-1.md)
+* [Guide Page](section-1/guide-page.md)
+* [Faq Page](section-1/faq-page.md)
 
+## Section 2
+
+* [Change Log Page](section-2/change-log-page.md)
