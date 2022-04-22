@@ -40,7 +40,7 @@ code in 2
 {% tab title="My File Bro.sh" %}
 ```
 $ here is some code, execute it {% raw %}
-{% endhint %}
+{% endraw %}
 {% endraw %}
 ```
 {% endtab %}
