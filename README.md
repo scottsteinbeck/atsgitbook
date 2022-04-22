@@ -39,7 +39,9 @@ code in 2
 {% tabs %}
 {% tab title="My File Bro.sh" %}
 ```
-$ here is some code, execute it
+$ here is some code, execute it {% raw %}
+{% endhint %}
+{% endraw %}
 ```
 {% endtab %}
 
@@ -53,6 +55,10 @@ $ here is some code, execute it
 > ### 4 score and 7 years ago, stuff happened, the end
 >
 > #### Oh tell me about it
+>
+> \{% endhint %\}
+>
+>
 
 ![Corn Image](.gitbook/assets/61244.jpg)
 
